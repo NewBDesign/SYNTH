@@ -5,7 +5,23 @@
     "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Alley.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1024x1816"
+    "dimensions": "1080x1920"
+    },
+    {
+    "name": "Arcade",
+    "author": "NB Design",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Arcade.png?raw=true",
+    "collections": "Phone",
+    "downloadable": true,
+    "dimensions": "1080x1920"
+    },
+    {
+    "name": "Art",
+    "author": "NB Design",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Art.png?raw=true",
+    "collections": "Phone",
+    "downloadable": true,
+    "dimensions": "1080x1920"
     },
     {
     "name": "Beach",
@@ -13,7 +29,7 @@
     "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Beach.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1024x1816"
+    "dimensions": "1080x1920"
     },
     {
     "name": "Bike",
@@ -21,15 +37,7 @@
     "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Bike.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1024x1816"
-    },
-    {
-    "name": "Bridge",
-    "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Bridge.png?raw=true",
-    "collections": "Phone",
-    "downloadable": true,
-    "dimensions": "1024x1816"
+    "dimensions": "1080x1920"
     },
     {
     "name": "Castle",
@@ -37,7 +45,7 @@
     "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Castle.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1024x1816"
+    "dimensions": "1080x1920"
     },
     {
     "name": "City",
@@ -45,23 +53,23 @@
     "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/City.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1024x1816"
+    "dimensions": "1080x1920"
     },
     {
-    "name": "District",
+    "name": "Desert",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/District.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Desert.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1024x1816"
+    "dimensions": "1080x1920"
     },
     {
-    "name": "Dusk",
+    "name": "Direction",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Dusk.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Direction.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1024x1816"
+    "dimensions": "1080x1920"
     },
     {
     "name": "Electronic",
@@ -69,15 +77,23 @@
     "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Electronic.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1024x1816"
+    "dimensions": "1080x1920"
     },
     {
-    "name": "Gorge",
+    "name": "Forest",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Gorge.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Forest.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1024x1816"
+    "dimensions": "1080x1920"
+    },
+    {
+    "name": "Grid",
+    "author": "NB Design",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Grid.png?raw=true",
+    "collections": "Phone",
+    "downloadable": true,
+    "dimensions": "1080x1920"
     },
     {
     "name": "Jungle",
@@ -85,7 +101,7 @@
     "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Jungle.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1024x1816"
+    "dimensions": "1080x1920"
     },
     {
     "name": "Landscape",
@@ -93,87 +109,63 @@
     "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Landscape.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1024x1816"
+    "dimensions": "1080x1920"
     },
     {
-    "name": "Laser",
+    "name": "Layer",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Laser.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Layer.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1024x1816"
+    "dimensions": "1080x1920"
     },
     {
-    "name": "Mega",
+    "name": "Mars",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Mega.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Mars.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1024x1816"
+    "dimensions": "1080x1920"
     },
     {
-    "name": "Orbit",
+    "name": "Meteorite",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Orbit.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Meteorite.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1024x1816"
+    "dimensions": "1080x1920"
     },
     {
-    "name": "Pink",
+    "name": "Moon",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Pink.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Moon.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1024x1816"
+    "dimensions": "1080x1920"
     },
     {
-    "name": "Plants",
+    "name": "River",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Plants.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/River.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1024x1816"
+    "dimensions": "1080x1920"
     },
     {
-    "name": "Rain",
+    "name": "Samurai",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Rain.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Samurai.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1024x1816"
+    "dimensions": "1080x1920"
     },
     {
-    "name": "Sea",
+    "name": "Space",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Sea.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Space.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1024x1816"
-    },
-    {
-    "name": "Skyscrapers",
-    "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Skyscrapers.png?raw=true",
-    "collections": "Phone",
-    "downloadable": true,
-    "dimensions": "1024x1816"
-    },
-    {
-    "name": "Slum",
-    "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Slum.png?raw=true",
-    "collections": "Phone",
-    "downloadable": true,
-    "dimensions": "1024x1816"
-    },
-    {
-    "name": "Surfing",
-    "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Surfing.png?raw=true",
-    "collections": "Phone",
-    "downloadable": true,
-    "dimensions": "1024x1816"
+    "dimensions": "1080x1920"
     },
     {
     "name": "Taxi",
@@ -181,15 +173,23 @@
     "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Taxi.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1024x1816"
+    "dimensions": "1080x1920"
     },
     {
-    "name": "Traffic",
+    "name": "Tiger",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Traffic.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Tiger.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1024x1816"
+    "dimensions": "1080x1920"
+    },
+    {
+    "name": "Tower",
+    "author": "NB Design",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Tower.png?raw=true",
+    "collections": "Phone",
+    "downloadable": true,
+    "dimensions": "1080x1920"
     },
     {
     "name": "Waves",
@@ -197,7 +197,7 @@
     "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/phone/Waves.png?raw=true",
     "collections": "Phone",
     "downloadable": true,
-    "dimensions": "1024x1816"
+    "dimensions": "1080x1920"
     },
     {
     "name": "Abstract",
@@ -205,15 +205,15 @@
     "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Abstract.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
-    "dimensions": "1816x1024"
+    "dimensions": "1920x1080"
     },
     {
-    "name": "Acryl",
+    "name": "Astronaut",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Acryl.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Astronaut.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
-    "dimensions": "1816x1024"
+    "dimensions": "1920x1080"
     },
     {
     "name": "Aurora",
@@ -221,15 +221,15 @@
     "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Aurora.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
-    "dimensions": "1816x1024"
+    "dimensions": "1920x1080"
     },
     {
-    "name": "Blue",
+    "name": "Blur",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Blue.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Blur.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
-    "dimensions": "1816x1024"
+    "dimensions": "1920x1080"
     },
     {
     "name": "Car",
@@ -237,31 +237,31 @@
     "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Car.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
-    "dimensions": "1816x1024"
+    "dimensions": "1920x1080"
     },
     {
-    "name": "Cubes",
+    "name": "Clouds",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Cubes.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Clouds.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
-    "dimensions": "1816x1024"
+    "dimensions": "1920x1080"
     },
     {
-    "name": "Desert",
+    "name": "Dragon",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Desert.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Dragon.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
-    "dimensions": "1816x1024"
+    "dimensions": "1920x1080"
     },
     {
-    "name": "Driving",
+    "name": "Dunes",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Driving.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Dunes.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
-    "dimensions": "1816x1024"
+    "dimensions": "1920x1080"
     },
     {
     "name": "Galaxy",
@@ -269,7 +269,39 @@
     "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Galaxy.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
-    "dimensions": "1816x1024"
+    "dimensions": "1920x1080"
+    },
+    {
+    "name": "Gems",
+    "author": "NB Design",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Gems.png?raw=true",
+    "collections": "Tablet",
+    "downloadable": true,
+    "dimensions": "1920x1080"
+    },
+    {
+    "name": "Gradient",
+    "author": "NB Design",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Gradient.png?raw=true",
+    "collections": "Tablet",
+    "downloadable": true,
+    "dimensions": "1920x1080"
+    },
+    {
+    "name": "Graffiti",
+    "author": "NB Design",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Graffiti.png?raw=true",
+    "collections": "Tablet",
+    "downloadable": true,
+    "dimensions": "1920x1080"
+    },
+    {
+    "name": "Highway",
+    "author": "NB Design",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Highway.png?raw=true",
+    "collections": "Tablet",
+    "downloadable": true,
+    "dimensions": "1920x1080"
     },
     {
     "name": "Island",
@@ -277,23 +309,15 @@
     "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Island.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
-    "dimensions": "1816x1024"
+    "dimensions": "1920x1080"
     },
     {
-    "name": "Lights",
+    "name": "Lines",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Lights.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Lines.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
-    "dimensions": "1816x1024"
-    },
-    {
-    "name": "Metro",
-    "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Metro.png?raw=true",
-    "collections": "Tablet",
-    "downloadable": true,
-    "dimensions": "1816x1024"
+    "dimensions": "1920x1080"
     },
     {
     "name": "Mountains",
@@ -301,87 +325,55 @@
     "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Mountains.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
-    "dimensions": "1816x1024"
+    "dimensions": "1920x1080"
     },
     {
-    "name": "Nebula",
+    "name": "Phoenix",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Nebula.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Phoenix.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
-    "dimensions": "1816x1024"
+    "dimensions": "1920x1080"
     },
     {
-    "name": "Ocean",
+    "name": "Plant",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Ocean.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Plant.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
-    "dimensions": "1816x1024"
+    "dimensions": "1920x1080"
     },
     {
-    "name": "Pattern",
+    "name": "Pyramid",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Pattern.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Pyramid.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
-    "dimensions": "1816x1024"
+    "dimensions": "1920x1080"
     },
     {
-    "name": "Planets",
+    "name": "Room",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Planets.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Room.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
-    "dimensions": "1816x1024"
+    "dimensions": "1920x1080"
     },
     {
-    "name": "Purple",
+    "name": "Sakura",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Purple.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Sakura.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
-    "dimensions": "1816x1024"
+    "dimensions": "1920x1080"
     },
     {
-    "name": "Ruins",
+    "name": "Savannah",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Ruins.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Savannah.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
-    "dimensions": "1816x1024"
-    },
-    {
-    "name": "Safari",
-    "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Safari.png?raw=true",
-    "collections": "Tablet",
-    "downloadable": true,
-    "dimensions": "1816x1024"
-    },
-    {
-    "name": "Skyline",
-    "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Skyline.png?raw=true",
-    "collections": "Tablet",
-    "downloadable": true,
-    "dimensions": "1816x1024"
-    },
-    {
-    "name": "Smooth",
-    "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Smooth.png?raw=true",
-    "collections": "Tablet",
-    "downloadable": true,
-    "dimensions": "1816x1024"
-    },
-    {
-    "name": "Storm",
-    "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Storm.png?raw=true",
-    "collections": "Tablet",
-    "downloadable": true,
-    "dimensions": "1816x1024"
+    "dimensions": "1920x1080"
     },
     {
     "name": "Sunset",
@@ -389,14 +381,22 @@
     "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Sunset.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
-    "dimensions": "1816x1024"
+    "dimensions": "1920x1080"
     },
     {
-    "name": "Wasteland",
+    "name": "Temple",
     "author": "NB Design",
-    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Wasteland.png?raw=true",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Temple.png?raw=true",
     "collections": "Tablet",
     "downloadable": true,
-    "dimensions": "1816x1024"
+    "dimensions": "1920x1080"
+    },
+    {
+    "name": "Urban",
+    "author": "NB Design",
+    "url": "https://github.com/NewBDesign/SYNTH/blob/main/wallpapers/tablet/Urban.png?raw=true",
+    "collections": "Tablet",
+    "downloadable": true,
+    "dimensions": "1920x1080"
     }
 ]
